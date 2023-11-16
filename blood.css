@@ -1,0 +1,28 @@
+nav, header{
+    overflow: hidden;
+    background-color: aliceblue;
+    position: fixed;
+    margin-top :0%;
+    width: 100%;
+    text-align: right;
+}
+header{
+    text-align: left;
+}
+
+img{
+    width: 105%;
+    height: 105%;
+}
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.text-block {
+    position: center;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 24px;
+}

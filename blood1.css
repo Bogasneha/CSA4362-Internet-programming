@@ -1,0 +1,25 @@
+
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+nav{
+    overflow: hidden;
+    position: fixed;
+    text-align: right;
+    top: 0;
+    width: 100%;
+    background-color: aliceblue;
+}
+h2{
+    text-align: left;
+    display: flex;
+    position: absolute;
+    padding: 5px;
+    top: 25px;
+    left: 30px;
+}
